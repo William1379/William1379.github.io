@@ -1,7 +1,4 @@
 <html>
-<head>
-  <title>Khaana – Company Story and History</title>
-</head>
 <body style="background-color:#f5f5dc; font-family:Arial; padding:20px; max-width:900px; margin:auto;">
 
   <h1 style="text-align:center; color:#8B4513; font-family:Georgia;">Khaana: An American Bar & Grill</h1>
