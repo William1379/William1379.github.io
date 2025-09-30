@@ -1,4 +1,6 @@
 # William1379.github.io
 <!DOCTYPE html> 
 <html> 
-<head> Title </head>
+<head> 
+  <title>Company History </title>
+</head>
