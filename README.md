@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <h1 style="color:darkblue; text-align:center;">Company History</h1>
